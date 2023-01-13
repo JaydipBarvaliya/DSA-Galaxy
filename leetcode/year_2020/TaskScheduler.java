@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 /**
- * @author neeraj on 11/03/20
+ * @author jaydip on 11/03/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

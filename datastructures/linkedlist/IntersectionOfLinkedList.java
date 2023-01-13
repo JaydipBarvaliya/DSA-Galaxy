@@ -1,7 +1,7 @@
 package com.datastructures.linkedlist;
 
 /**
- * Created by jaine03 on 17/04/17.
+ * Created by jaydip on 17/04/17.
  */
 public class IntersectionOfLinkedList {
 

@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/find-eventual-safe-states/
  *
- * @author neeraj on 31/05/20
+ * @author jaydip on 31/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

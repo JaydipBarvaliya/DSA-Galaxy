@@ -3,7 +3,7 @@ package com.leetcode.year_2020;
 import static com.leetcode.year_2020.tree.ConstructBinaryTreeUsingPreOrderAndInorderTraversal.buildTreeFromPreOrderAndInorder;
 
 /**
- * @author neeraj on 26/04/20
+ * @author jaydip on 26/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

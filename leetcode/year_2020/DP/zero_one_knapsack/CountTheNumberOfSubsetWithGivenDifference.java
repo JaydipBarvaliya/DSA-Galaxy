@@ -1,7 +1,7 @@
 package com.leetcode.year_2020.DP.zero_one_knapsack;
 
 /**
- * @author neeraj on 05/05/20
+ * @author jaydip on 05/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -9,7 +9,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/01-matrix/
  *
- * @author neeraj on 01/06/20
+ * @author jaydip on 01/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

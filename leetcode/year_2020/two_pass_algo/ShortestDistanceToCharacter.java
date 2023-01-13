@@ -3,7 +3,7 @@ package com.leetcode.year_2020.two_pass_algo;
 import com.util.LogUtil;
 
 /**
- * @author neeraj on 15/06/20
+ * @author jaydip on 15/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -19,7 +19,7 @@ import java.util.*;
  * ]
  * Output: 1->1->2->3->4->4->5->6
  *
- * @author neeraj on 2019-05-19
+ * @author jaydip on 2019-05-19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

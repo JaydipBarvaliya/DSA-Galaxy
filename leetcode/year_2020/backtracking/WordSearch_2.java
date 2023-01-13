@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * https://leetcode.com/problems/word-search-ii/
  *
- * @author neeraj on 22/06/20
+ * @author jaydip on 22/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

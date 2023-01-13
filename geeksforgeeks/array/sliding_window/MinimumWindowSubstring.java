@@ -19,7 +19,7 @@ import java.util.stream.Collectors;
  * Input: S = "ADOBECODEBANC", T = "ABC"
  * Output: "BANC"
  *
- * @author neeraj on 2019-05-18
+ * @author jaydip on 2019-05-18
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

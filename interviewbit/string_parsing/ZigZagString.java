@@ -22,7 +22,7 @@ import com.util.LogUtil;
  * ...B....D
  * and hence the answer would be ACBD.
  *
- * @author neeraj on 2019-08-03
+ * @author jaydip on 2019-08-03
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

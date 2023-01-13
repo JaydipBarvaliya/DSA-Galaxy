@@ -10,7 +10,7 @@ import static com.util.LogUtil.newLine;
  * Given 1->1->2, return 1->2.
  * Given 1->1->2->3->3, return 1->2->3.
  *
- * @author neeraj on 2019-08-09
+ * @author jaydip on 2019-08-09
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -9,7 +9,7 @@ package com.leetcode.year_2020.sliding_window;
  * If there is no such window in S that covers all characters in T, return the empty string "".
  * If there are multiple such minimum-length windows, return the one with the smallest starting index.
  *
- * @author neeraj on 22/07/20
+ * @author jaydip on 22/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

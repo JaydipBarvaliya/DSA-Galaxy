@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
- * @author neeraj on 09/06/20
+ * @author jaydip on 09/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

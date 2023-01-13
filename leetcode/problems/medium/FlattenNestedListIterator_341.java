@@ -3,7 +3,7 @@ package com.leetcode.problems.medium;
 import java.util.Iterator;
 
 /**
- * @author neeraj on 11/10/19
+ * @author jaydip on 11/10/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

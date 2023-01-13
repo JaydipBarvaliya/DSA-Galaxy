@@ -8,7 +8,7 @@ import java.util.Map;
  * <p>
  * Given an array containing only 0s and 1s, find the largest subarray which contains equal no of 0s and 1s. Expected time complexity is O(n).
  *
- * @author neeraj on 20/05/20
+ * @author jaydip on 20/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

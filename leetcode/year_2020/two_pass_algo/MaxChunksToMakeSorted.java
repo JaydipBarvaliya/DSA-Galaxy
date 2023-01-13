@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * https://leetcode.com/problems/max-chunks-to-make-sorted/
  *
- * @author neeraj on 15/06/20
+ * @author jaydip on 15/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

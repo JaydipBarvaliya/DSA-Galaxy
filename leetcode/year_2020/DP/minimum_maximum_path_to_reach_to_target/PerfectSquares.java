@@ -3,7 +3,7 @@ package com.leetcode.year_2020.DP.minimum_maximum_path_to_reach_to_target;
 import java.util.Arrays;
 
 /**
- * @author neeraj on 06/06/20
+ * @author jaydip on 06/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

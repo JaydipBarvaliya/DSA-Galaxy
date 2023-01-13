@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author neeraj on 02/05/20
+ * @author jaydip on 02/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */
@@ -12,7 +12,7 @@ public class ImplementAHashTable {
 
     public static void main(String[] args) {
         HashTable<Integer, String> map = new HashTable<>();
-        map.put(1, "Neeraj");
+        map.put(1, "jaydip");
         map.put(2, "Sakshi");
         map.put(3, "Ayushi");
 

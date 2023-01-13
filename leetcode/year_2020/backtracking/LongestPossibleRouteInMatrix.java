@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/
  *
- * @author neeraj on 12/07/20
+ * @author jaydip on 12/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -11,7 +11,7 @@ import java.util.Map;
  * <p>
  * https://www.geeksforgeeks.org/maximum-sum-rectangle-in-a-2d-matrix-dp-27/
  *
- * @author neeraj on 2019-05-09
+ * @author jaydip on 2019-05-09
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

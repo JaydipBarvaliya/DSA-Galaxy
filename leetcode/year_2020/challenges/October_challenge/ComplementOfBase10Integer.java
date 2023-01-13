@@ -1,7 +1,7 @@
 package com.leetcode.year_2020.challenges.October_challenge;
 
 /**
- * @author neeraj on 05/10/20
+ * @author jaydip on 05/10/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -22,7 +22,7 @@ import com.util.LogUtil;
  * if n = 2,
  * the sequence is 11.
  *
- * @author neeraj on 2019-08-01
+ * @author jaydip on 2019-08-01
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

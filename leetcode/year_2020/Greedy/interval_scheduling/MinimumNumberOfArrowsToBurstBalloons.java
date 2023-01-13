@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 
 /**
- * @author neeraj on 17/05/20
+ * @author jaydip on 17/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -17,7 +17,7 @@ import static com.util.LogUtil.getArrayAsString;
  * All elements in the array are in the range [0, N-1]
  * N * N does not overflow for a signed integer
  *
- * @author neeraj on 2019-07-28
+ * @author jaydip on 2019-07-28
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

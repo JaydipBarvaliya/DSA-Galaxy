@@ -3,7 +3,7 @@ package com.datastructures.mustDoInterviewQuestions.DP;
 /**
  * http://www.geeksforgeeks.org/dynamic-programming-set-13-cutting-a-rod/
  *
- * @author jaine03
+ * @author jaydip
  */
 public class CuttingTheRod {
 

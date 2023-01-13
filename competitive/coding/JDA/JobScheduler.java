@@ -3,7 +3,7 @@ package com.competitive.coding.JDA;
 import java.util.*;
 
 /**
- * Created by jaine03 on 02/09/17.
+ * Created by jaydip on 02/09/17.
  * This class will schedule the job as per customer request and the resource availability
  */
 public class JobScheduler {

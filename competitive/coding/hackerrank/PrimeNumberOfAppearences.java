@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.*;
 
 /**
- * Created by jaine03 on 19/08/17.
+ * Created by jaydip on 19/08/17.
  */
 public class PrimeNumberOfAppearences {
 

@@ -16,7 +16,7 @@ import java.util.List;
  * * *         N ITI  N
  * * *        NITIN
  *
- * @author neeraj on 2019-05-04
+ * @author jaydip on 2019-05-04
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

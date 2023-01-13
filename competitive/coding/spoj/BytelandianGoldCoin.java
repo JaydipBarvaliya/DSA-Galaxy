@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * Created by jaine03 on 19/04/17.
+ * Created by jaydip on 19/04/17.
  */
 public class BytelandianGoldCoin {
 

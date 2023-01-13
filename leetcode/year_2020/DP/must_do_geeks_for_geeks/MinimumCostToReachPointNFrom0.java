@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * https://www.geeksforgeeks.org/minimum-cost-to-reach-a-point-n-from-0-with-two-different-operations-allowed/
  *
- * @author neeraj on 04/07/20
+ * @author jaydip on 04/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

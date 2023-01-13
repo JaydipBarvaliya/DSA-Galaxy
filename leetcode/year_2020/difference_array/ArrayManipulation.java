@@ -5,7 +5,7 @@ package com.leetcode.year_2020.difference_array;
  * <p>
  * Array Manipulation
  *
- * @author neeraj on 20/05/20
+ * @author jaydip on 20/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

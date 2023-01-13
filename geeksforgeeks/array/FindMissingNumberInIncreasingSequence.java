@@ -9,7 +9,7 @@ import static com.util.LogUtil.getArrayAsString;
  * If the given sequence is 1,3,4,5 then the missing number is 2.
  * For the input 2,3,4,5 output returned should be 1 as it is the missing number.
  *
- * @author neeraj on 2019-07-20
+ * @author jaydip on 2019-07-20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

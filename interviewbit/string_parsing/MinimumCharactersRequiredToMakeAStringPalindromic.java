@@ -33,7 +33,7 @@ package com.interviewbit.string_parsing;
  * Insert 'A' at beginning, string becomes: "AAACECAAAA".
  * Insert 'A' at beginning, string becomes: "AAAACECAAAA".
  *
- * @author neeraj on 2019-08-01
+ * @author jaydip on 2019-08-01
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

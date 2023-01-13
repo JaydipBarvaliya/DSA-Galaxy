@@ -5,7 +5,7 @@ import java.util.Queue;
 import java.util.StringTokenizer;
 
 /**
- * Created by jaine03 on 15/07/17.
+ * Created by jaydip on 15/07/17.
  */
 public class HeapSort {
 	String traverse = "" ;		//to store inorder traversal

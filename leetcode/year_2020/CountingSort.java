@@ -7,7 +7,7 @@ import java.util.Arrays;
 /**
  * https://www.youtube.com/watch?v=pEJiGC-ObQE
  *
- * @author neeraj on 18/06/20
+ * @author jaydip on 18/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

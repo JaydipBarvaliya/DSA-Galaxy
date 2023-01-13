@@ -41,7 +41,7 @@ import java.util.Stack;
  * now if we look right side of the index 2 there are 2 values for j such that A[j]>A[i] (8 at the index 3 and 9 at the index 5)
  * but as stated in question we have to choose the minimum j so it would be index 3.
  *
- * @author neeraj on 2019-07-26
+ * @author jaydip on 2019-07-26
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

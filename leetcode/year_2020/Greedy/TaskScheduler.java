@@ -13,7 +13,7 @@ import java.util.Stack;
  * <p>
  * https://leetcode.com/problems/task-scheduler/discuss/104501/Java-PriorityQueue-solution-Similar-problem-Rearrange-string-K-distance-apart
  *
- * @author neeraj on 23/05/20
+ * @author jaydip on 23/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

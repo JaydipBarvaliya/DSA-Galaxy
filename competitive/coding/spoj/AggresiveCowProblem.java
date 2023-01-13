@@ -3,7 +3,7 @@ package com.competitive.coding.spoj;
 import java.util.*;
 
 /**
- * Created by jaine03 on 19/04/17.
+ * Created by jaydip on 19/04/17.
  * Problem Statement at : http://www.spoj.com/problems/AGGRCOW/
  *
  * This problem is being solved with the help of Binary Search

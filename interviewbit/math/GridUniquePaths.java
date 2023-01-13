@@ -10,7 +10,7 @@ import java.util.List;
  * <p>
  * This problem is similar to RatndMaze Problem
  *
- * @author neeraj on 2019-07-28
+ * @author jaydip on 2019-07-28
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

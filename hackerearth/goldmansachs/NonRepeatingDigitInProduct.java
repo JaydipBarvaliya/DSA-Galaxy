@@ -1,7 +1,7 @@
 package com.hackerearth.goldmansachs;
 
 /**
- * @author neeraj on 12/10/19
+ * @author jaydip on 12/10/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

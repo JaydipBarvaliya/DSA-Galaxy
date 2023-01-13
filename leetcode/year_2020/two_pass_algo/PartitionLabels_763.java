@@ -22,7 +22,7 @@ import java.util.Map;
  * S will have length in range [1, 500].
  * S will consist of lowercase letters ('a' to 'z') only.
  *
- * @author neeraj on 2019-08-05
+ * @author jaydip on 2019-08-05
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

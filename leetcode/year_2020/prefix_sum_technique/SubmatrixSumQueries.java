@@ -5,7 +5,7 @@ import com.util.LogUtil;
 /**
  * https://leetcode.com/problems/range-sum-query-2d-immutable/
  *
- * @author neeraj on 25/06/20
+ * @author jaydip on 25/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

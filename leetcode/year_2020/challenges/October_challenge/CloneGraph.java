@@ -3,7 +3,7 @@ package com.leetcode.year_2020.challenges.October_challenge;
 import java.util.*;
 
 /**
- * @author neeraj on 20/10/20
+ * @author jaydip on 20/10/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

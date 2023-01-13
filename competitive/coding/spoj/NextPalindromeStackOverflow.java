@@ -3,7 +3,7 @@ package com.competitive.coding.spoj;
 import java.util.Scanner;
 
 /**
- * Created by jaine03 on 23/04/17.
+ * Created by jaydip on 23/04/17.
  */
 public class NextPalindromeStackOverflow {
 

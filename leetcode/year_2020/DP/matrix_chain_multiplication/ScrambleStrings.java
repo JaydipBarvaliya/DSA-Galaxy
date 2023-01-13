@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/scramble-string/
  *
- * @author neeraj on 12/05/20
+ * @author jaydip on 12/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

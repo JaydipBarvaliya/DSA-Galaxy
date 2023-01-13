@@ -1,7 +1,7 @@
 package com.datastructures.array;
 
 /**
- * Created by jaine03 on 02/05/17.
+ * Created by jaydip on 02/05/17.
  * <p>
  * http://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
  */

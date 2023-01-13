@@ -10,7 +10,7 @@ public class Splitwise_MinimizeCashFlowInFriends {
     static {
         personMap.put(0, "Jitu");
         personMap.put(1, "Sagar");
-        personMap.put(2, "Neeraj");
+        personMap.put(2, "jaydip");
     }
 
     public static void main(String[] args) {

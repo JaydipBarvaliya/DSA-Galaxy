@@ -3,7 +3,7 @@ package com.leetcode.year_2020;
 import com.util.LogUtil;
 
 /**
- * @author neeraj on 19/06/20
+ * @author jaydip on 19/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */
@@ -11,9 +11,9 @@ public class RabinKarpSubstringSearchPattern {
 
     public static void main(String[] args) {
         LogUtil.logIt("Pattern exist " + patternExist("abedabc", "abc"));
-        LogUtil.logIt("Pattern exist " + patternExist("neeraj", "raj"));
-        LogUtil.logIt("Pattern exist " + patternExist("neeraj", "eera"));
-        LogUtil.logIt("Pattern exist " + patternExist("neeraj", "sakshi"));
+        LogUtil.logIt("Pattern exist " + patternExist("jaydip", "raj"));
+        LogUtil.logIt("Pattern exist " + patternExist("jaydip", "eera"));
+        LogUtil.logIt("Pattern exist " + patternExist("jaydip", "sakshi"));
     }
 
     public static boolean patternExist(String original, String pattern) {

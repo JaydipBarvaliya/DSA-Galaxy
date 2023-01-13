@@ -6,7 +6,7 @@ import com.leetcode.year_2020.TreeNode;
  * https://www.geeksforgeeks.org/largest-bst-binary-tree-set-2/
  * https://github.com/mission-peace/interview/blob/master/src/com/interview/tree/LargestBSTInBinaryTree.java
  *
- * @author neeraj on 24/07/20
+ * @author jaydip on 24/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

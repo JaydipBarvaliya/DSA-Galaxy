@@ -34,7 +34,7 @@ import java.util.Map;
  * Output 2:
  * 20
  *
- * @author neeraj on 2019-08-02
+ * @author jaydip on 2019-08-02
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

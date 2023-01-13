@@ -9,7 +9,7 @@ import java.util.List;
 public class FileSearch {
 
   public static void main(String[] args) throws Exception {
-    File directory = new File("/Users/jaine03/Projects/github/neerajjain92/data-structures/src/com/stackoverflow/file_search_test/");
+    File directory = new File("/Users/jaydip/Projects/github/jaydipjain92/data-structures/src/com/stackoverflow/file_search_test/");
     File[] listOfFiles = directory.listFiles();
     BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     String inputQuery = null;

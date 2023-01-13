@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * http://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/#arrays
- * Created by jaine03 on 22/07/17.
+ * Created by jaydip on 22/07/17.
  */
 public class LongestIncreasingSubsequence {
 

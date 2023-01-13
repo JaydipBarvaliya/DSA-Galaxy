@@ -3,7 +3,7 @@ package com.leetcode.year_2020.graph.disjoint_set_union_find;
 /**
  * https://leetcode.com/problems/friend-circles/
  *
- * @author neeraj on 28/05/20
+ * @author jaydip on 28/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

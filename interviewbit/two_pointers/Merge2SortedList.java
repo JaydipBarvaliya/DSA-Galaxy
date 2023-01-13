@@ -16,7 +16,7 @@ import java.util.Arrays;
  * <p>
  * Modified A : [1 5 6 8 9]
  *
- * @author neeraj on 2019-08-04
+ * @author jaydip on 2019-08-04
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -28,7 +28,7 @@ import java.util.Map;
  * pattern = "zy"
  * Output: []
  *
- * @author neeraj on 12/04/20
+ * @author jaydip on 12/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

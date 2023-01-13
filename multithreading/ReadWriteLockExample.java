@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * So we can have multiple readers at any point in time but just 1 writer thread.
  * hence we will use {@link java.util.concurrent.locks.ReadWriteLock}
  *
- * @author neeraj on 25/07/20
+ * @author jaydip on 25/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

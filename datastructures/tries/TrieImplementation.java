@@ -1,7 +1,7 @@
 package com.datastructures.tries;
 
 /**
- * @author neeraj on 17/10/19
+ * @author jaydip on 17/10/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

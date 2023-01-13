@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/
  *
- * @author neeraj on 28/06/20
+ * @author jaydip on 28/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

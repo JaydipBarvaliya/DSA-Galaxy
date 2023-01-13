@@ -20,7 +20,7 @@ import com.interviewbit.linked_list.LinkedNodeUtil.ListNode;
  * <p>
  * Return the node corresponding to node 3.
  *
- * @author neeraj on 2019-08-11
+ * @author jaydip on 2019-08-11
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

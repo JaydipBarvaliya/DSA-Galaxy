@@ -3,7 +3,7 @@ package com.leetcode.year_2020.DP.zero_one_knapsack;
 /**
  * https://leetcode.com/problems/target-sum/
  *
- * @author neeraj on 06/05/20
+ * @author jaydip on 06/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

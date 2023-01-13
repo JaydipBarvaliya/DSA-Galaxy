@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 
 /**
  * Given an array and two integers I andJ, modify the array such that you retain I nodes, then delete J nodes. Do this till end of the array
- * Created by jaine03 on 09/08/17.
+ * Created by jaydip on 09/08/17.
  */
 public class ModifyArray {
 

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by jaine03 on 13/09/17.
+ * Created by jaydip on 13/09/17.
  */
 public class SimpleQueries {
 

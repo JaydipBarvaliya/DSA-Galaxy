@@ -17,7 +17,7 @@ public class StringPermutation {
 
     public static void main(String[] args) {
 
-        String input = "MARTYNEERAJ";
+        String input = "MARTYjaydip";
 //        char[] result = new char[input.length()];
 //        int level = 0;
 //        List<String> allPermutations = new LinkedList<>();

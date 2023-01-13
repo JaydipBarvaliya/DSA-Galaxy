@@ -4,7 +4,7 @@ package com.leetcode.year_2020;
 /**
  * https://leetcode.com/problems/sum-root-to-leaf-numbers/
  *
- * @author neeraj on 23/04/20
+ * @author jaydip on 23/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

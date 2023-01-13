@@ -29,7 +29,7 @@ import java.util.List;
  * <p>
  * Return 0 / 1 ( 0 if the element is not present, 1 if the element is present ) for this problem
  *
- * @author neeraj on 2019-07-29
+ * @author jaydip on 2019-07-29
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

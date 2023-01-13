@@ -14,7 +14,7 @@ import static com.util.LogUtil.printMultiDimensionArray;
  * Each of the digits 1-9 must occur exactly once in each column.
  * Each of the the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.
  *
- * @author neeraj on 2019-05-05
+ * @author jaydip on 2019-05-05
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

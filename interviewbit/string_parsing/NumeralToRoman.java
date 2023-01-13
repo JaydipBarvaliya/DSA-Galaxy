@@ -5,7 +5,7 @@ import static com.util.LogUtil.logIt;
 /**
  * https://www.interviewbit.com/problems/integer-to-roman/
  *
- * @author neeraj on 2019-08-03
+ * @author jaydip on 2019-08-03
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

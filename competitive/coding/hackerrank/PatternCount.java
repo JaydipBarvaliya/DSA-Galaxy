@@ -6,7 +6,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * Created by jaine03 on 17/06/17.
+ * Created by jaydip on 17/06/17.
  *
  * https://www.hackerrank.com/contests/w33/challenges/pattern-count
  *

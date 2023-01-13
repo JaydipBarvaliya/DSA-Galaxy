@@ -3,7 +3,7 @@ package com.leetcode.year_2020.DP.longest_common_subsequence;
 import static com.leetcode.year_2020.DP.longest_common_subsequence.LongestPalindromicSubsequence.longestPalindromeSubseqUsingLCS;
 
 /**
- * @author neeraj on 08/05/20
+ * @author jaydip on 08/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

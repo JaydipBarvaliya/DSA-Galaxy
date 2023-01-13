@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/substring-with-concatenation-of-all-words/
  *
- * @author neeraj on 18/05/20
+ * @author jaydip on 18/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -9,7 +9,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @author neeraj on 25/07/20
+ * @author jaydip on 25/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

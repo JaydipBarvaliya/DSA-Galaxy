@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/
  *
- * @author neeraj on 12/05/20
+ * @author jaydip on 12/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  * <p>

@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * https://www.youtube.com/watch?v=8MpoO2zA2l4&t=604s
  *
- * @author neeraj on 28/06/20
+ * @author jaydip on 28/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

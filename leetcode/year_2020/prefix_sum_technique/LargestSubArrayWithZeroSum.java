@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/
  *
- * @author neeraj on 20/05/20
+ * @author jaydip on 20/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

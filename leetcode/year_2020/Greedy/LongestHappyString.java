@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 /**
  * https://leetcode.com/problems/longest-happy-string/
  *
- * @author neeraj on 25/06/20
+ * @author jaydip on 25/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

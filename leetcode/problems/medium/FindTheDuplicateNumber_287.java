@@ -3,7 +3,7 @@ package com.leetcode.problems.medium;
 /**
  * https://leetcode.com/problems/find-the-duplicate-number/
  *
- * @author neeraj on 08/10/19
+ * @author jaydip on 08/10/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

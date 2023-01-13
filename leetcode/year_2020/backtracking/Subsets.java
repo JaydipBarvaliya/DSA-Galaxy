@@ -8,7 +8,7 @@ import java.util.List;
  * https://leetcode.com/problems/subsets/
  * https://leetcode.com/problems/subsets-ii/
  *
- * @author neeraj on 10/04/20
+ * @author jaydip on 10/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

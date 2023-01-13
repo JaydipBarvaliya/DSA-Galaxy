@@ -8,7 +8,7 @@ import java.util.List;
  * <p>
  * 1239. Maximum Length of a Concatenated String with Unique Characters
  *
- * @author neeraj on 22/03/20
+ * @author jaydip on 22/03/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

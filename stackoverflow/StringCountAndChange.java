@@ -7,7 +7,7 @@ class StringCountAndChange {
     public static void main(String[] args) {
         String s = "sagar";
 
-        String h = "neeraj";
+        String h = "jaydip";
         System.out.println(s.length() + h.length());
 
         StringBuffer sagarBuffer = new StringBuffer(s);
@@ -16,11 +16,11 @@ class StringCountAndChange {
         }
         System.out.println(sagarBuffer.toString());
 
-        StringBuffer neerajBuffer = new StringBuffer(h);
-        if (neerajBuffer.charAt(0) >= 97 && neerajBuffer.charAt(0) <= 122) {
-            neerajBuffer.setCharAt(0, (char) (neerajBuffer.charAt(0) - 32));
+        StringBuffer jaydipBuffer = new StringBuffer(h);
+        if (jaydipBuffer.charAt(0) >= 97 && jaydipBuffer.charAt(0) <= 122) {
+            jaydipBuffer.setCharAt(0, (char) (jaydipBuffer.charAt(0) - 32));
         }
-        System.out.println(neerajBuffer.toString());
+        System.out.println(jaydipBuffer.toString());
     }
 
 

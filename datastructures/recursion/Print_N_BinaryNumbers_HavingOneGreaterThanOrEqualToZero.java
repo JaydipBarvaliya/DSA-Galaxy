@@ -5,7 +5,7 @@ import com.util.LogUtil;
 /**
  * https://www.geeksforgeeks.org/print-n-bit-binary-numbers-1s-0s-prefixes/
  *
- * @author neeraj on 27/07/20
+ * @author jaydip on 27/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

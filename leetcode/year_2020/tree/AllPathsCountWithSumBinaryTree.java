@@ -13,7 +13,7 @@ import com.leetcode.year_2020.TreeNode;
  * The tree has no more than 1,000 nodes and the values are in the range -1,000,000 to 1,000,000.
  * https://leetcode.com/problems/path-sum-iii/
  *
- * @author neeraj on 23/04/20
+ * @author jaydip on 23/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

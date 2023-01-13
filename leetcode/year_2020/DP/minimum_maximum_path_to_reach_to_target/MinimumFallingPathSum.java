@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * https://leetcode.com/problems/minimum-falling-path-sum/
  *
- * @author neeraj on 05/06/20
+ * @author jaydip on 05/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

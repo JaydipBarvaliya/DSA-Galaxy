@@ -1,7 +1,7 @@
 package com.datastructures.algorithms;
 
 /**
- * Created by jaine03 on 18/04/17.
+ * Created by jaydip on 18/04/17.
  */
 public class BinarySearch {
 

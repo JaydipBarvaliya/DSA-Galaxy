@@ -18,7 +18,7 @@ import static com.util.LogUtil.printArray;
  * Median = (10 + 11)/2
  * = 10.5
  *
- * @author neeraj on 2019-07-20
+ * @author jaydip on 2019-07-20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

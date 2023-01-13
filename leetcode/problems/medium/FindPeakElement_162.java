@@ -1,7 +1,7 @@
 package com.leetcode.problems.medium;
 
 /**
- * @author neeraj on 15/09/19
+ * @author jaydip on 15/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

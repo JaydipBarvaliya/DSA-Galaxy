@@ -1,7 +1,7 @@
 package com.datastructures.mustDoInterviewQuestions.array;
 
 /**
- * Created by jaine03 on 23/07/17.
+ * Created by jaydip on 23/07/17.
  */
 public class StockBuyAndSell {
 

@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/permutations/
  *
- * @author neeraj on 06/10/19
+ * @author jaydip on 06/10/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -5,7 +5,7 @@ package com.leetcode.year_2020.binary_search;
  * https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
  * https://leetcode.com/problems/split-array-largest-sum/
  *
- * @author neeraj on 12/06/20
+ * @author jaydip on 12/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

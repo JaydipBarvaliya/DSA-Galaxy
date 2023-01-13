@@ -8,7 +8,7 @@ package com.leetcode.year_2020.Greedy.interval_scheduling;
  * <p>
  * We define an array is non-decreasing if nums[i] <= nums[i + 1] holds for every i (0-based) such that (0 <= i <= n - 2).
  *
- * @author neeraj on 22/05/20
+ * @author jaydip on 22/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

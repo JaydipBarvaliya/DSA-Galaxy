@@ -11,7 +11,7 @@ import java.util.List;
  * Given a read only array of n + 1 integers between 1 and n, find one number that repeats in linear time using less than O(n)
  * space and traversing the stream sequentially O(1) times.
  *
- * @author neeraj on 2019-07-25
+ * @author jaydip on 2019-07-25
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

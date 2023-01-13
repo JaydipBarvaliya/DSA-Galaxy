@@ -36,7 +36,7 @@ public class PairOfSongsDivisibleBy60 {
          *
          * We can also write 44 is 7*m+2    and 19 is 7*n+(7-2)  -----> Notice 2 is remainder from 44
          *
-         * So Neeraj what intuition are you getting with this that
+         * So jaydip what intuition are you getting with this that
          * 2 pair can only be divisible by k their remainder have to sum upto either 0 or K
          *
          * When can 0 happen assume Pair(14,21) are these divisible by 7

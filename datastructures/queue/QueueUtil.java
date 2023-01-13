@@ -1,7 +1,7 @@
 package com.datastructures.queue;
 
 /**
- * Created by jaine03 on 13/07/17.
+ * Created by jaydip on 13/07/17.
  */
 public class QueueUtil {
 

@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.stream.IntStream;
 
 /**
- * @author neeraj on 2019-07-31
+ * @author jaydip on 2019-07-31
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

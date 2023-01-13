@@ -19,7 +19,7 @@ import java.util.List;
  * Output: [[1,6],[8,10],[15,18]]
  * Explanation: Since intervals [1,3] and [2,6] overlaps, merge them into [1,6].
  *
- * @author neeraj on 16/05/20
+ * @author jaydip on 16/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

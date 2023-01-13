@@ -3,7 +3,7 @@ package com.datastructures.graph;
 import java.util.*;
 
 /**
- * Created by jaine03 on 03/08/17.
+ * Created by jaydip on 03/08/17.
  */
 public class BreadthFirstTraversal {
 

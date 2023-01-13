@@ -4,7 +4,7 @@ import com.datastructures.tree.binaryTree.BinaryTreeUtil;
 
 /**
  * http://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
- * Created by jaine03 on 28/07/17.
+ * Created by jaydip on 28/07/17.
  */
 public class LeftViewOfBinaryTree {
 

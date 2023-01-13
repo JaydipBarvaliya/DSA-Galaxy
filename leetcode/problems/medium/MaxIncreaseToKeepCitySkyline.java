@@ -3,7 +3,7 @@ package com.leetcode.problems.medium;
 /**
  * https://leetcode.com/problems/max-increase-to-keep-city-skyline/
  *
- * @author neeraj on 05/10/19
+ * @author jaydip on 05/10/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

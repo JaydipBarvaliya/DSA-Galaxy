@@ -15,7 +15,7 @@ import java.util.Arrays;
  * Given input array A = [1,1,2],
  * Your function should return length = 2, and A is now [1,2].
  *
- * @author neeraj on 2019-08-06
+ * @author jaydip on 2019-08-06
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

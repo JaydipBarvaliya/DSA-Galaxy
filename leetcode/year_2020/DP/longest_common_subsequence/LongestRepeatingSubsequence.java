@@ -6,7 +6,7 @@ import com.util.LogUtil;
  * Same problem
  * https://leetcode.com/problems/longest-duplicate-substring/
  *
- * @author neeraj on 08/05/20
+ * @author jaydip on 08/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */
@@ -42,11 +42,11 @@ public class LongestRepeatingSubsequence {
          *                            These both entries appear just once, now they can be a part of just 1 subsequence
          *                            not in both, hence we can't include them in out LRS calculation.
          *
-         * OK Mr. Neeraj we got that but how do you plan to not choose them,
-         * Neeraj :==> simple we know in both LCS(str, str) they exist in at same location i.e m == n for [E and D]
+         * OK Mr. jaydip we got that but how do you plan to not choose them,
+         * jaydip :==> simple we know in both LCS(str, str) they exist in at same location i.e m == n for [E and D]
          * so we will ignore (m == n).
          *
-         * Perfect, but hey Mr. Neeraj what about A A B B D D they also come at same location in both matrix,are we saying
+         * Perfect, but hey Mr. jaydip what about A A B B D D they also come at same location in both matrix,are we saying
          * we will not include them.
          * that's exactly what i am saying, but the twist is A A comes twice once at 0th index and other time at 1th index
          * hence if we are skipping m == n == 0th entry for A, then we are bound to choose (m=0) != (n=1)th entry.

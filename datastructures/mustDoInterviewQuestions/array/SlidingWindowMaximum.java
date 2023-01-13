@@ -1,7 +1,7 @@
 package com.datastructures.mustDoInterviewQuestions.array;
 
 /**
- * Created by jaine03 on 22/07/17.
+ * Created by jaydip on 22/07/17.
  */
 public class SlidingWindowMaximum {
 

@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * #graph-theory #number-theory #shortest-path #sorting #bitmasks
  *
- * Created by jaine03 on 21/04/17.
+ * Created by jaydip on 21/04/17.
  *
  * Problem Statement at : http://www.spoj.com/problems/INVCNT/
  */

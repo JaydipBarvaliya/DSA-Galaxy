@@ -10,7 +10,7 @@ package com.leetcode.year_2020.DP.zero_one_knapsack;
  * Subset1 = {1, 5, 6}, sum of Subset1 = 12
  * Subset2 = {11}, sum of Subset2 = 11
  *
- * @author neeraj on 05/05/20
+ * @author jaydip on 05/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

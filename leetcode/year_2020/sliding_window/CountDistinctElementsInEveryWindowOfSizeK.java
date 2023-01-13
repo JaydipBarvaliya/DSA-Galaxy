@@ -6,7 +6,7 @@ import java.util.*;
  * https://www.geeksforgeeks.org/count-distinct-elements-in-every-window-of-size-k/
  * https://www.interviewbit.com/problems/distinct-numbers-in-window/
  *
- * @author neeraj on 18/05/20
+ * @author jaydip on 18/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

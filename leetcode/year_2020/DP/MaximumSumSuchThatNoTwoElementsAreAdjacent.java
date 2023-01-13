@@ -5,7 +5,7 @@ import com.util.LogUtil;
 /**
  * https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
  *
- * @author neeraj on 16/06/20
+ * @author jaydip on 16/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -14,7 +14,7 @@ import java.util.Arrays;
  * But we need to determine minimum cuts.
  * So that is a|babbbab|b|ababa ==> which is 3 cuts.
  *
- * @author neeraj on 10/05/20
+ * @author jaydip on 10/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

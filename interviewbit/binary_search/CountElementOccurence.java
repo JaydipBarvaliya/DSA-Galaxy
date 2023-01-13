@@ -18,7 +18,7 @@ import static java.util.stream.Collectors.counting;
  * Given [5, 7, 7, 8, 8, 10] and target value 8,
  * return 2.
  *
- * @author neeraj on 2019-07-28
+ * @author jaydip on 2019-07-28
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

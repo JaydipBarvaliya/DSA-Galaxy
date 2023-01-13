@@ -11,7 +11,7 @@ import java.util.List;
  * https://www.geeksforgeeks.org/box-stacking-problem-dp-22/
  * https://www.youtube.com/watch?v=9mod_xRB-O0
  *
- * @author neeraj on 08/07/20
+ * @author jaydip on 08/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

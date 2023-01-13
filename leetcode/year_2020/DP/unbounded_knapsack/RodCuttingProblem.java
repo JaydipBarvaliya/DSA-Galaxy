@@ -3,7 +3,7 @@ package com.leetcode.year_2020.DP.unbounded_knapsack;
 import java.util.Arrays;
 
 /**
- * @author neeraj on 06/05/20
+ * @author jaydip on 06/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

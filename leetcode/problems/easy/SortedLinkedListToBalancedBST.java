@@ -3,7 +3,7 @@ package com.leetcode.problems.easy;
 import com.util.LogUtil;
 
 /**
- * @author neeraj on 19/09/19
+ * @author jaydip on 19/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -10,7 +10,7 @@ import java.util.Arrays;
  * In this GeeksForGeeks problem we have to find [Maximum Of Minimum] vs the original problem of [Minimum of Maximum]
  * So we can easily tweak for the same.
  *
- * @author neeraj on 16/07/20
+ * @author jaydip on 16/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

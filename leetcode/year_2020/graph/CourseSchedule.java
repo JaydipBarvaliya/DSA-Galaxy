@@ -10,7 +10,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/course-schedule/
  *
- * @author neeraj on 26/05/20
+ * @author jaydip on 26/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

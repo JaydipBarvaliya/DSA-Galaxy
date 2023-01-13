@@ -31,7 +31,7 @@ import java.util.List;
  * <p>
  * 1 <= B <= 9, 0 <= C <= 1e9 & 0 <= A[i] <= 9
  *
- * @author neeraj on 2019-07-27
+ * @author jaydip on 2019-07-27
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

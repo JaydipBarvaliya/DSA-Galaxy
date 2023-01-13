@@ -1,7 +1,7 @@
 package com.datastructures.recursion;
 
 /**
- * @author neeraj on 26/06/20
+ * @author jaydip on 26/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

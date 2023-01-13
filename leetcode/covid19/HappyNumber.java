@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/happy-number/
  *
- * @author neeraj on 02/04/20
+ * @author jaydip on 02/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

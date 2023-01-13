@@ -16,7 +16,7 @@ import static com.util.LogUtil.logIt;
  * <p>
  * 239. Sliding Window Maximum
  *
- * @author neeraj on 05/07/20
+ * @author jaydip on 05/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

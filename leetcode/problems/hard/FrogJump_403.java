@@ -40,7 +40,7 @@ import java.util.stream.Collectors;
  * Return false. There is no way to jump to the last stone as
  * the gap between the 5th and 6th stone is too large.
  *
- * @author neeraj on 2019-08-05
+ * @author jaydip on 2019-08-05
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

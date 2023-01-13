@@ -20,7 +20,7 @@ import java.util.Stack;
  * Output: 4
  * Explanation: The longest valid parentheses substring is "()()"
  *
- * @author neeraj on 2019-07-20
+ * @author jaydip on 2019-07-20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

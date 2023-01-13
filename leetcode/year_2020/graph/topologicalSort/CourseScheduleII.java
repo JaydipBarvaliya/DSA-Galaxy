@@ -11,7 +11,7 @@ import java.util.Queue;
 /**
  * https://leetcode.com/problems/course-schedule-ii/
  *
- * @author neeraj on 02/06/20
+ * @author jaydip on 02/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

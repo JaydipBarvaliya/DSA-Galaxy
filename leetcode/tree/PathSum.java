@@ -9,7 +9,7 @@ import java.util.List;
  * https://leetcode.com/problems/path-sum/
  * https://leetcode.com/problems/path-sum-ii/
  *
- * @author neeraj on 05/09/19
+ * @author jaydip on 05/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

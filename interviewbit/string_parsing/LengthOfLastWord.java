@@ -19,7 +19,7 @@ import com.util.LogUtil;
  * <p>
  * Please make sure you try to solve this problem without using library functions. Make sure you only traverse the string once.
  *
- * @author neeraj on 2019-08-01
+ * @author jaydip on 2019-08-01
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

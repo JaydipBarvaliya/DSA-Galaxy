@@ -3,7 +3,7 @@ package com.leetcode.year_2020.graph.disjoint_set_union_find;
 import java.util.*;
 
 /**
- * @author neeraj on 30/05/20
+ * @author jaydip on 30/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

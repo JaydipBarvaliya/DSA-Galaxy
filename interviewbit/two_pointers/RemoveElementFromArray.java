@@ -20,7 +20,7 @@ import static java.util.Collections.swap;
  * then new length is 3, and A is now [4, 2, 3]
  * Try to do it in less than linear additional space complexity.
  *
- * @author neeraj on 2019-08-06
+ * @author jaydip on 2019-08-06
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

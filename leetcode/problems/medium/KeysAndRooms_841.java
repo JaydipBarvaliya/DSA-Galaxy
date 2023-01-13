@@ -3,7 +3,7 @@ package com.leetcode.problems.medium;
 import java.util.*;
 
 /**
- * @author neeraj on 10/09/19
+ * @author jaydip on 10/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

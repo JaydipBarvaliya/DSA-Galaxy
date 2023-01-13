@@ -3,7 +3,7 @@ package com.leetcode.problems.medium;
 import static com.geeksforgeeks.array.Rotate2DMatrix.print2DArray;
 
 /**
- * @author neeraj on 07/09/19
+ * @author jaydip on 07/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

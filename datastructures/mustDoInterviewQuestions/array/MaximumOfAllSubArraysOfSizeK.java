@@ -1,7 +1,7 @@
 package com.datastructures.mustDoInterviewQuestions.array;
 
 /**
- * Created by jaine03 on 31/08/17.
+ * Created by jaydip on 31/08/17.
  */
 public class MaximumOfAllSubArraysOfSizeK {
 

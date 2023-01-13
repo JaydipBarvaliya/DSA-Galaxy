@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author neeraj on 01/09/19
+ * @author jaydip on 01/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */
@@ -16,8 +16,8 @@ public class MostCommonWord_819 {
         System.out.println(mostCommonWord("Bob hit a ball, the hit BALL flew far after it was hit.", new String[]{"hit"}));
 //        System.out.println(mostCommonWord("a, a, a, a, b,b,b,c, c", new String[]{"a"}));
 
-        System.out.println("neeraj+jain@gmail.com".indexOf("+"));
-        System.out.println("neeraj+jain@gmail.com".indexOf("[A-Za-z]"));
+        System.out.println("jaydip+jain@gmail.com".indexOf("+"));
+        System.out.println("jaydip+jain@gmail.com".indexOf("[A-Za-z]"));
 
     }
 

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by jaine03 on 17/06/17.
+ * Created by jaydip on 17/06/17.
  *
  * https://www.hackerrank.com/contests/w33/challenges/twin-arrayss
  */

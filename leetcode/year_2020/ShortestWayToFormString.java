@@ -3,7 +3,7 @@ package com.leetcode.year_2020;
 /**
  * https://www.youtube.com/watch?v=evesA3gr9BE&t=30s
  *
- * @author neeraj on 22/03/20
+ * @author jaydip on 22/03/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

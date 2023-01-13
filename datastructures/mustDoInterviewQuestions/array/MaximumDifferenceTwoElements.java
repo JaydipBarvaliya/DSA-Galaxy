@@ -2,7 +2,7 @@ package com.datastructures.mustDoInterviewQuestions.array;
 
 /**
  * http://www.geeksforgeeks.org/maximum-difference-between-two-elements/
- * Created by jaine03 on 23/07/17.
+ * Created by jaydip on 23/07/17.
  */
 public class MaximumDifferenceTwoElements {
 

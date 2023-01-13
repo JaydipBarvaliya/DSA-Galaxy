@@ -1,7 +1,7 @@
 package com.datastructures.tree.binaryTree;
 
 /**
- * Created by jaine03 on 05/07/17.
+ * Created by jaydip on 05/07/17.
  */
 public class BinaryTreeUtilUser {
 

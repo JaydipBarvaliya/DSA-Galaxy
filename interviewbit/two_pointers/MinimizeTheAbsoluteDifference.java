@@ -23,7 +23,7 @@ import java.util.Arrays;
  * 1
  * Explanation: We get the minimum difference for a=5, b=6, c=6 as | max(a,b,c) - min(a,b,c) | = |6-5| = 1.
  *
- * @author neeraj on 2019-08-05
+ * @author jaydip on 2019-08-05
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

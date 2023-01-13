@@ -3,7 +3,7 @@ package com.leetcode.year_2020.DP;
 /**
  * https://leetcode.com/problems/jump-game-iii/
  *
- * @author neeraj on 31/07/20
+ * @author jaydip on 31/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

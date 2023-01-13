@@ -19,7 +19,7 @@ import java.util.List;
  * <p>
  * The sum that is closest to the target is 2. (-1 + 2 + 1 = 2)
  *
- * @author neeraj on 2019-08-05
+ * @author jaydip on 2019-08-05
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

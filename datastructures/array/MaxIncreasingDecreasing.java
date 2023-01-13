@@ -1,7 +1,7 @@
 package com.datastructures.array;
 
 /**
- * Created by jaine03 on 08/06/17.
+ * Created by jaydip on 08/06/17.
  */
 public class MaxIncreasingDecreasing {
 

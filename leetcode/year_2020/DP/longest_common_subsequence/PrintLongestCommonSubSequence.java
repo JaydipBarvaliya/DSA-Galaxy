@@ -1,7 +1,7 @@
 package com.leetcode.year_2020.DP.longest_common_subsequence;
 
 /**
- * @author neeraj on 07/05/20
+ * @author jaydip on 07/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

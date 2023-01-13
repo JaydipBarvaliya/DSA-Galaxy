@@ -3,7 +3,7 @@ package com.datastructures.mustDoInterviewQuestions.array;
 import com.datastructures.array.ArrayUtil;
 
 /**
- * Created by jaine03 on 28/07/17.
+ * Created by jaydip on 28/07/17.
  */
 public class SpiralMatrix {
 

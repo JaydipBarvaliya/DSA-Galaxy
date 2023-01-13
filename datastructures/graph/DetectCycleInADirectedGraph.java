@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.Set;
 
 /**
- * Created by jaine03 on 12/08/17.
+ * Created by jaydip on 12/08/17.
  */
 public class DetectCycleInADirectedGraph {
 

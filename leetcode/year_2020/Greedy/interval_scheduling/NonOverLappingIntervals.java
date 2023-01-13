@@ -9,7 +9,7 @@ import java.util.Comparator;
  * Given a collection of intervals, find the minimum number of intervals you need to remove
  * to make the rest of the intervals non-overlapping.
  *
- * @author neeraj on 16/05/20
+ * @author jaydip on 16/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

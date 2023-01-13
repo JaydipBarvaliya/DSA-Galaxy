@@ -3,7 +3,7 @@ package com.datastructures.recursion;
 /**
  * https://www.geeksforgeeks.org/combinations-string-digits/
  *
- * @author neeraj on 10/07/20
+ * @author jaydip on 10/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

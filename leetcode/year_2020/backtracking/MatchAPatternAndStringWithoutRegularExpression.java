@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * https://www.geeksforgeeks.org/match-a-pattern-and-string-without-using-regular-expressions/
  *
- * @author neeraj on 08/07/20
+ * @author jaydip on 08/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

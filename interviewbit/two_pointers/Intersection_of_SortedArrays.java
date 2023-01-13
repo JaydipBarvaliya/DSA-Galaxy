@@ -25,7 +25,7 @@ import java.util.List;
  * <p>
  * Output : [3 5]
  *
- * @author neeraj on 2019-08-04
+ * @author jaydip on 2019-08-04
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

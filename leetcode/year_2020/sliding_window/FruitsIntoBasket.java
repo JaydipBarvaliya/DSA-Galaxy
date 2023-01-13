@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/fruit-into-baskets/
  *
- * @author neeraj on 14/07/20
+ * @author jaydip on 14/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

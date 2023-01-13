@@ -1,7 +1,7 @@
 package com.datastructures.array;
 
 /**
- * Created by jaine03 on 03/09/17.
+ * Created by jaydip on 03/09/17.
  */
 public class CurrencyWordConverter {
 

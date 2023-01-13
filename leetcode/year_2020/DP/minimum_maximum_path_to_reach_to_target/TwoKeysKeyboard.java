@@ -5,7 +5,7 @@ import com.util.LogUtil;
 /**
  * https://leetcode.com/problems/2-keys-keyboard/
  *
- * @author neeraj on 06/06/20
+ * @author jaydip on 06/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

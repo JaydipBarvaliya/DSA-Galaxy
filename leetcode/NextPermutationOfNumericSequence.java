@@ -17,7 +17,7 @@ import com.util.LogUtil;
  * 3,2,1 → 1,2,3
  * 1,1,5 → 1,5,1
  *
- * @author neeraj on 2019-05-11
+ * @author jaydip on 2019-05-11
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

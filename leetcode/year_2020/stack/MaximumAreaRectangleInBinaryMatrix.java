@@ -7,7 +7,7 @@ import static com.util.LogUtil.getArrayAsString;
 /**
  * https://leetcode.com/problems/maximal-rectangle/
  *
- * @author neeraj on 14/05/20
+ * @author jaydip on 14/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

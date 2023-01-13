@@ -5,7 +5,7 @@ import com.leetcode.year_2020.TreeNode;
 /**
  * https://leetcode.com/problems/binary-tree-maximum-path-sum/
  * 124. Binary Tree Maximum Path Sum
- * @author neeraj on 13/05/20
+ * @author jaydip on 13/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

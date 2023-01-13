@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/queens-that-can-attack-the-king/
  *
- * @author neeraj on 22/05/20
+ * @author jaydip on 22/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -10,7 +10,7 @@ import java.util.Arrays;
  * <p>
  * https://www.geeksforgeeks.org/count-number-of-ways-to-cover-a-distance/
  *
- * @author neeraj on 07/06/20
+ * @author jaydip on 07/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

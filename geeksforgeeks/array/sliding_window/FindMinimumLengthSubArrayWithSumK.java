@@ -12,7 +12,7 @@ import static com.util.LogUtil.getArrayAsString;
  * Output is : 2
  * and subarray is [4,3]
  *
- * @author neeraj on 2019-07-20
+ * @author jaydip on 2019-07-20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

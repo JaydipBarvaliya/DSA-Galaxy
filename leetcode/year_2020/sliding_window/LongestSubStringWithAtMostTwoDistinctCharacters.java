@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/
  *
- * @author neeraj on 15/07/20
+ * @author jaydip on 15/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

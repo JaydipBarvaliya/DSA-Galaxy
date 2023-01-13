@@ -3,7 +3,7 @@ package com.leetcode.year_2020.DP.longest_increasing_subsequence;
 /**
  * https://leetcode.com/problems/number-of-longest-increasing-subsequence/
  *
- * @author neeraj on 17/07/20
+ * @author jaydip on 17/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -8,7 +8,7 @@ import com.util.LogUtil;
  * This problem can also solve :
  * https://www.geeksforgeeks.org/maximum-sum-such-that-no-two-elements-are-adjacent/
  *
- * @author neeraj on 05/09/19
+ * @author jaydip on 05/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

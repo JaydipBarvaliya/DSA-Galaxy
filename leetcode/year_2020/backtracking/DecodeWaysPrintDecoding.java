@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/decode-ways/
  *
- * @author neeraj on 07/06/20
+ * @author jaydip on 07/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

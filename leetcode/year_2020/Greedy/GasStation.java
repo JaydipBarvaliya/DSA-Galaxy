@@ -3,7 +3,7 @@ package com.leetcode.year_2020.Greedy;
 /**
  * https://leetcode.com/problems/gas-station/
  *
- * @author neeraj on 05/07/20
+ * @author jaydip on 05/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -3,7 +3,7 @@ package com.leetcode.year_2020.sliding_window;
 /**
  * https://www.geeksforgeeks.org/minimum-length-subarray-sum-greater-given-value/
  *
- * @author neeraj on 15/07/20
+ * @author jaydip on 15/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -4,7 +4,7 @@ import com.geeksforgeeks.array.Rotate2DMatrix;
 import com.util.LogUtil;
 
 /**
- * @author neeraj on 15/09/19
+ * @author jaydip on 15/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

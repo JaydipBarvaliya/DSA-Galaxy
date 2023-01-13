@@ -6,7 +6,7 @@ import java.util.Stack;
  * 678. Valid Parenthesis String
  * https://leetcode.com/problems/valid-parenthesis-string/
  *
- * @author neeraj on 16/04/20
+ * @author jaydip on 16/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

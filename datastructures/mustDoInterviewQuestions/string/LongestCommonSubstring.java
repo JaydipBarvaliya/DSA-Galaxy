@@ -1,7 +1,7 @@
 package com.datastructures.mustDoInterviewQuestions.string;
 
 /**
- * Created by jaine03 on 24/07/17.
+ * Created by jaydip on 24/07/17.
  */
 public class LongestCommonSubstring {
 

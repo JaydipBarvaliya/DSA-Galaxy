@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/subarray-sum-equals-k/
  *
- * @author neeraj on 19/05/20
+ * @author jaydip on 19/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

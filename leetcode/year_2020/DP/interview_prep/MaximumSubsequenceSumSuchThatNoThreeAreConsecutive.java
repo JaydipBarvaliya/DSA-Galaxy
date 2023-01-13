@@ -3,7 +3,7 @@ package com.leetcode.year_2020.DP.interview_prep;
 import com.leetcode.year_2020.DP.HouseRobber;
 
 /**
- * @author neeraj on 07/07/20
+ * @author jaydip on 07/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

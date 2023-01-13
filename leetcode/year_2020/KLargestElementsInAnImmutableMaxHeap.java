@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /**
- * @author neeraj on 28/04/20
+ * @author jaydip on 28/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

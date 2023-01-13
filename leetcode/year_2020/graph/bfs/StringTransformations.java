@@ -17,7 +17,7 @@ import java.util.Set;
  * <p>
  * # WORD LADDER
  *
- * @author neeraj on 03/06/20
+ * @author jaydip on 03/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

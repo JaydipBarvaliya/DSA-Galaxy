@@ -20,7 +20,7 @@ import static com.interviewbit.linked_list.LinkedNodeUtil.reverseList;
  * For example,
  * Given {1,2,3,4}, reorder it to {1,4,2,3}.
  *
- * @author neeraj on 2019-08-11
+ * @author jaydip on 2019-08-11
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

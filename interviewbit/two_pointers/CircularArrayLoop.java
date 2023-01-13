@@ -1,7 +1,7 @@
 package com.interviewbit.two_pointers;
 
 /**
- * @author neeraj on 17/06/20
+ * @author jaydip on 17/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

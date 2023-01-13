@@ -2,7 +2,7 @@ package com.datastructures.mustDoInterviewQuestions.array;
 
 /**
  * http://www.geeksforgeeks.org/find-a-tour-that-visits-all-stations/
- * Created by jaine03 on 27/07/17.
+ * Created by jaydip on 27/07/17.
  */
 public class PetrolStationCircularTour {
 

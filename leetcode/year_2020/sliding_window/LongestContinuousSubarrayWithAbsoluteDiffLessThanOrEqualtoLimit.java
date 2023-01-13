@@ -9,7 +9,7 @@ import java.util.Deque;
  * "Absolute difference between any two elements is less than or equal to limit" is basically =>
  * "Absolute difference between min and max elements of subarray"
  *
- * @author neeraj on 14/07/20
+ * @author jaydip on 14/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

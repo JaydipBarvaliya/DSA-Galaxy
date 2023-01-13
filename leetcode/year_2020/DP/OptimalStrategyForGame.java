@@ -1,7 +1,7 @@
 package com.leetcode.year_2020.DP;
 
 /**
- * @author neeraj on 25/07/20
+ * @author jaydip on 25/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

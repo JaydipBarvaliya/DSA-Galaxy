@@ -3,7 +3,7 @@ package com.interviewbit.string_parsing;
 import java.util.stream.Collectors;
 
 /**
- * @author neeraj on 2019-07-31
+ * @author jaydip on 2019-07-31
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

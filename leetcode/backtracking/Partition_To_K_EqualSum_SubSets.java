@@ -15,7 +15,7 @@ import java.util.stream.IntStream;
  * Output: True
  * Explanation: It's possible to divide it into 4 subsets (5), (1, 4), (2,3), (2,3) with equal sums.
  *
- * @author neeraj on 2019-05-13
+ * @author jaydip on 2019-05-13
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

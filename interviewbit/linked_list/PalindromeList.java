@@ -13,7 +13,7 @@ package com.interviewbit.linked_list;
  * List 1-->2-->1 is a palindrome.
  * List 1-->2-->3 is not a palindrome.
  *
- * @author neeraj on 2019-08-08
+ * @author jaydip on 2019-08-08
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

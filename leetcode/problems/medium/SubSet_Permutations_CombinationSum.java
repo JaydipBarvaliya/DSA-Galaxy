@@ -17,7 +17,7 @@ import java.util.List;
  * <p>
  * 3) Combination Sum
  *
- * @author neeraj on 06/10/19
+ * @author jaydip on 06/10/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

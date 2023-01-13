@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * Created by jaine03 on 22/07/17.
+ * Created by jaydip on 22/07/17.
  */
 public class MinimumNumberOfPlatForm {
     private static String ARRIVAL = "Arrival";

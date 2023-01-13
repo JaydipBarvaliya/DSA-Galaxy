@@ -3,7 +3,7 @@ package com.leetcode.problems.easy;
 import java.util.Arrays;
 
 /**
- * @author neeraj on 18/09/19
+ * @author jaydip on 18/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

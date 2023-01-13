@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Created by jaine03 on 12/08/17.
+ * Created by jaydip on 12/08/17.
  */
 public class NumberOfIsland {
     public static int[] rowNumber = {-1, -1, 1, 0, 0, 1, 1, 1};

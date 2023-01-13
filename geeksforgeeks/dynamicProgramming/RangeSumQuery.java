@@ -10,7 +10,7 @@ import com.util.LogUtil;
  * sumRange(2, 5) -> -1
  * sumRange(0, 5) -> -3
  *
- * @author neeraj on 2019-05-08
+ * @author jaydip on 2019-05-08
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -17,7 +17,7 @@ import com.util.LogUtil;
  * Valid Output: [0, 1, 0, 1, 1, 2, 2]
  * Valid Output: [0, 0, 1, 1, 1, 2, 2]   (a more perfect output)
  *
- * @author neeraj on 2019-05-21
+ * @author jaydip on 2019-05-21
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

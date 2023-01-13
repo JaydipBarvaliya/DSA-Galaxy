@@ -10,7 +10,7 @@ import java.util.PriorityQueue;
 /**
  * https://leetcode.com/problems/reduce-array-size-to-the-half/
  *
- * @author neeraj on 25/05/20
+ * @author jaydip on 25/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

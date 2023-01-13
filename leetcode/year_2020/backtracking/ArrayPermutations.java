@@ -9,7 +9,7 @@ import java.util.List;
  * https://leetcode.com/problems/permutations/ (Non Duplicate)
  * https://leetcode.com/problems/permutations-ii/submissions/ (Duplicate check).
  *
- * @author neeraj on 10/04/20
+ * @author jaydip on 10/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

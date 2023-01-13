@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * https://leetcode.com/problems/number-of-operations-to-make-network-connected/
  *
- * @author neeraj on 27/05/20
+ * @author jaydip on 27/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

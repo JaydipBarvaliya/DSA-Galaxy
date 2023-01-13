@@ -6,7 +6,7 @@ import java.util.Stack;
 /**
  * https://leetcode.com/problems/lemonade-change/
  *
- * @author neeraj on 24/05/20
+ * @author jaydip on 24/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

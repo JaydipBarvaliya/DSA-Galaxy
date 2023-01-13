@@ -25,7 +25,7 @@ import java.util.List;
  * <p>
  * If there are multiple possible solutions, return the sequence which has the minimum start index.
  *
- * @author neeraj on 2019-08-07
+ * @author jaydip on 2019-08-07
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

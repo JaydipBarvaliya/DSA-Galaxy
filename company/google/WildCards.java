@@ -22,7 +22,7 @@ package com.company.google;
  * Input: "$**+*{2} 9mmmrrrkbb" Output: true
  * Browse Resources powered by Google
  *
- * @author neeraj on 12/05/20
+ * @author jaydip on 12/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

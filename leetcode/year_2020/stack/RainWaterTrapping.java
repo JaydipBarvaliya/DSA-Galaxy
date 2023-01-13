@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/trapping-rain-water/
  *
- * @author neeraj on 14/05/20
+ * @author jaydip on 14/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

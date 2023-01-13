@@ -10,7 +10,7 @@ import java.util.List;
  * <p>
  * This is analogous to extracting all sets of size k from the sequence's power set (the set of all subsets).
  *
- * @author neeraj on 12/04/20
+ * @author jaydip on 12/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

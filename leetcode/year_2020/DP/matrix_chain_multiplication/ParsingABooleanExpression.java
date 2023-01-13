@@ -17,7 +17,7 @@ import java.util.Stack;
  * "&(expr1,expr2,...)", evaluating to the logical AND of 2 or more inner expressions expr1, expr2, ...;
  * "|(expr1,expr2,...)", evaluating to the logical OR of 2 or more inner expressions expr1, expr2, ...
  *
- * @author neeraj on 11/05/20
+ * @author jaydip on 11/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

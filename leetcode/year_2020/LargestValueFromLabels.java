@@ -3,7 +3,7 @@ package com.leetcode.year_2020;
 import java.util.*;
 
 /**
- * @author neeraj on 14/03/20
+ * @author jaydip on 14/03/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

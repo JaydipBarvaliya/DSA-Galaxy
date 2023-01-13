@@ -4,7 +4,7 @@ package com.leetcode.year_2020;
  * Solution inspired from MIT Lecture
  * https://www.youtube.com/watch?v=Tw1k46ywN6E&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=15
  *
- * @author neeraj on 03/05/20
+ * @author jaydip on 03/05/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

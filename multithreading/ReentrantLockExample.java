@@ -6,7 +6,7 @@ import java.util.concurrent.locks.ReentrantLock;
  * Example when multiple threads are trying to book the ticket at the same time
  * you need to use {@link ReentrantLock}
  *
- * @author neeraj on 25/07/20
+ * @author jaydip on 25/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

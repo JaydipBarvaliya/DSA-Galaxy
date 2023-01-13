@@ -7,7 +7,7 @@ import java.util.Arrays;
 /**
  * https://www.geeksforgeeks.org/minimum-time-write-characters-using-insert-delete-copy-operation/
  *
- * @author neeraj on 07/07/20
+ * @author jaydip on 07/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

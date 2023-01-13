@@ -17,7 +17,7 @@ import java.util.List;
  * Input : [4 5 6 7 0 1 2] and target = 4
  * Output : 0
  *
- * @author neeraj on 2019-07-30
+ * @author jaydip on 2019-07-30
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

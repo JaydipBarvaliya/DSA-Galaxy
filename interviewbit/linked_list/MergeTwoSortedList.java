@@ -16,7 +16,7 @@ import static com.util.LogUtil.newLine;
  * <p>
  * 4 -> 5 -> 8 -> 11 -> 15 -> 20
  *
- * @author neeraj on 2019-08-08
+ * @author jaydip on 2019-08-08
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

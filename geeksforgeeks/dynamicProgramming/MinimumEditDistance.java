@@ -7,8 +7,8 @@ public class MinimumEditDistance {
     public static void main(String[] args) {
         System.out.println("Minimum Edit Distance for converting abcdef to azced is " + getMinimumEditDistance("abcdef", "azced"));
         System.out.println("Minimum Edit Distance for converting sunday to saturday is " + getMinimumEditDistance("sunday", "saturday"));
-        System.out.println("Minimum Qualities for converting Neeraj to Ayushi is " + getMinimumEditDistance("Neeraj","Ayushi"));
-        System.out.println("Minimum Qualities for converting Ayushi to Neeraj is " + getMinimumEditDistance("Ayushi","Neeraj"));
+        System.out.println("Minimum Qualities for converting jaydip to Ayushi is " + getMinimumEditDistance("jaydip","Ayushi"));
+        System.out.println("Minimum Qualities for converting Ayushi to jaydip is " + getMinimumEditDistance("Ayushi","jaydip"));
     }
 
     public static int getMinimumEditDistance(final String FROM, final String TO) {

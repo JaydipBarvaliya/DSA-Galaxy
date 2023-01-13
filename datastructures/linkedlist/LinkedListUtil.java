@@ -3,7 +3,7 @@ package com.datastructures.linkedlist;
 import java.util.Stack;
 
 /**
- * Created by jaine03 on 17/04/17.
+ * Created by jaydip on 17/04/17.
  */
 public class LinkedListUtil {
 

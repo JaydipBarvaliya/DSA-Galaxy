@@ -7,7 +7,7 @@ import java.util.Arrays;
 /**
  * https://www.interviewbit.com/problems/max-non-negative-subarray/
  *
- * @author neeraj on 2019-07-25
+ * @author jaydip on 2019-07-25
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

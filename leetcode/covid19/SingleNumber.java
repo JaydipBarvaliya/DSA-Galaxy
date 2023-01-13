@@ -3,7 +3,7 @@ package com.leetcode.covid19;
 /**
  * https://leetcode.com/problems/single-number/
  *
- * @author neeraj on 02/04/20
+ * @author jaydip on 02/04/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

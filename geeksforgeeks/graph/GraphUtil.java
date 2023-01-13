@@ -1430,7 +1430,7 @@ public class GraphUtil {
 
         friendsMap.put(0, "JITU");
         friendsMap.put(1, "SAGAR");
-        friendsMap.put(2, "NEERAJ");
+        friendsMap.put(2, "jaydip");
 
         int[] netAmount = new int[noOfFriends];
         // First find the net amount of all friends

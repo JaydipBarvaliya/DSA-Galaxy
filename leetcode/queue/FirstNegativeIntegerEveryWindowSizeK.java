@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author neeraj on 05/07/20
+ * @author jaydip on 05/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

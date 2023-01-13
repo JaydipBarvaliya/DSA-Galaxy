@@ -3,7 +3,7 @@ package com.leetcode.year_2020.stack;
 import java.util.Stack;
 
 /**
- * @author neeraj on 23/07/20
+ * @author jaydip on 23/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

@@ -17,7 +17,7 @@ import java.util.List;
  * Input: "25525511135"
  * Output: ["255.255.11.135", "255.255.111.35"]
  *
- * @author neeraj on 2019-05-18
+ * @author jaydip on 2019-05-18
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

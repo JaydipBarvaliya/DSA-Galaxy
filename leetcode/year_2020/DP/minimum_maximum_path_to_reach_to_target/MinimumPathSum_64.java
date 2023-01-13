@@ -1,7 +1,7 @@
 package com.leetcode.year_2020.DP.minimum_maximum_path_to_reach_to_target;
 
 /**
- * @author neeraj on 15/09/19
+ * @author jaydip on 15/09/19
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

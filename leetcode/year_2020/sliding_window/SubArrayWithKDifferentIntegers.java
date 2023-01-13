@@ -11,7 +11,7 @@ import java.util.Map;
  * <p>
  * Answer is inspired by : https://leetcode.com/problems/subarrays-with-k-different-integers/discuss/672979/Analysis-and-explanation-with-Visualization
  *
- * @author neeraj on 01/07/20
+ * @author jaydip on 01/07/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

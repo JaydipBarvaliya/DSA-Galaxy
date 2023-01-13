@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 /**
  * https://leetcode.com/problems/triangle/
  *
- * @author neeraj on 05/06/20
+ * @author jaydip on 05/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

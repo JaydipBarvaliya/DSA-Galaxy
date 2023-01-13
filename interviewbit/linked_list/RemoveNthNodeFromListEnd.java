@@ -15,7 +15,7 @@ import static com.util.LogUtil.newLine;
  * If n is greater than the size of the list, remove the first node of the list.
  * Try doing it using constant additional space.
  *
- * @author neeraj on 2019-08-10
+ * @author jaydip on 2019-08-10
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

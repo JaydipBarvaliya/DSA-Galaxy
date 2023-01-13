@@ -1,7 +1,7 @@
 package com.interviewbit.math;
 
 /**
- * @author neeraj on 2019-07-27
+ * @author jaydip on 2019-07-27
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

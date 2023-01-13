@@ -8,7 +8,7 @@ import java.util.List;
  * <p>
  * Given n and k, return the kth permutation sequence.
  *
- * @author neeraj on 20/06/20
+ * @author jaydip on 20/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

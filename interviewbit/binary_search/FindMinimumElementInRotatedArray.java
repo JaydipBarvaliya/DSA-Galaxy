@@ -14,7 +14,7 @@ import static com.util.LogUtil.logIt;
  * <p>
  * The array will not contain duplicates.
  *
- * @author neeraj on 2019-07-29
+ * @author jaydip on 2019-07-29
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

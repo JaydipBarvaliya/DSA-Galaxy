@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * https://leetcode.com/problems/majority-element-ii/
  *
- * @author neeraj on 30/06/20
+ * @author jaydip on 30/06/20
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

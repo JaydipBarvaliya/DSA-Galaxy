@@ -55,7 +55,7 @@ import java.util.List;
  * * Hence our time complexity is (Branching Factor)^n ===> 4^n
  * *
  *
- * @author neeraj on 2019-05-18
+ * @author jaydip on 2019-05-18
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  * *

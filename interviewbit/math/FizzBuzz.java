@@ -18,7 +18,7 @@ import java.util.Arrays;
  * A = 5
  * Return: [1 2 Fizz 4 Buzz]
  *
- * @author neeraj on 2019-07-27
+ * @author jaydip on 2019-07-27
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */

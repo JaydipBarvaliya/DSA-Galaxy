@@ -15,7 +15,7 @@ import java.util.Map;
  * <p>
  * https://leetcode.com/problems/integer-to-english-words/
  *
- * @author neeraj on 2019-07-30
+ * @author jaydip on 2019-07-30
  * Copyright (c) 2019, data-structures.
  * All rights reserved.
  */
