@@ -3,11 +3,6 @@ package com.algoexpert;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author neeraj on 04/08/20
- * Copyright (c) 2019, data-structures.
- * All rights reserved.
- */
 public class CountOfSmallerNumbersAfterSelf {
 
     public static void main(String[] args) {

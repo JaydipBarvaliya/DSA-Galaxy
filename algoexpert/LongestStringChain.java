@@ -2,11 +2,6 @@ package com.algoexpert;
 
 import java.util.*;
 
-/**
- * @author neeraj on 04/08/20
- * Copyright (c) 2019, data-structures.
- * All rights reserved.
- */
 public class LongestStringChain {
 
     public static void main(String[] args) {
